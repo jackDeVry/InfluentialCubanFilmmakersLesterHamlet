@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "dee05cc7-5cb5-4466-821f-d22b55caad6a": {
+      "label": "Interview with Amaury Pérez",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://archive.org/details/C2QSQ2LESTERHAMLET",
+      "duration": 2300
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Interview with Amaury Pérez - ",
+  "created_at": "2025-06-04T22:12:53.469Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-04T22:12:53.469Z",
+  "updated_by": "jackDeVry"
+}
