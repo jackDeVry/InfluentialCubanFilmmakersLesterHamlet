@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "jackDeVry",
+    "is_private": false,
+    "title": "Influential Cuban Filmmakers: Lester Hamlet",
+    "description": "This bilingual project aims to curate a comprehensive collection of films and interviews featuring one of Cuba’s most influential filmmakers of the 21st century. Within this archive, you will have access to a series of interviews conducted over the years and a freely available selection of his filmography. The objective is to provide a resource that deepens the understanding of his contributions to cinema, both as an innovative filmmaker and an individual.\n\nEste proyecto bilingüe tiene como objetivo curar una colección exhaustiva de películas y entrevistas que destacan a uno de los cineastas más influyentes de Cuba en el siglo XXI. Dentro de este archivo, tendrás acceso a una serie de entrevistas realizadas a lo largo de los años y a una selección de su filmografía disponible de forma gratuita. El propósito es ofrecer un recurso que profundice en la comprensión de sus contribuciones al cine, tanto como cineasta innovador como individuo.",
+    "language": "es",
+    "slug": "InfluentialCubanFilmmakersLesterHamlet",
+    "creator": "jackDeVry",
+    "authors": "Jack Devry Riordan",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-06-04T21:57:41.892Z",
+    "updated_at": "2025-06-04T21:57:41.892Z"
   }
 }
