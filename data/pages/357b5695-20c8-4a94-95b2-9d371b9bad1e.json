@@ -1,0 +1,150 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nEste proyecto tiene como objetivo curar una colección exhaustiva de películas y entrevistas que destacan a uno de los cineastas más influyentes de Cuba en el siglo XXI. Dentro de este archivo, tendrás acceso a una serie de entrevistas realizadas a lo largo de los años y a una selección de su filmografía disponible de forma gratuita. El propósito es ofrecer un recurso que profundice en la comprensión de sus contribuciones al cine, tanto como cineasta innovador como individuo.\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://habanerofilmsales.com/wp-content/uploads/2013/03/bahia-otherangle.jpeg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Direcciones:",
+          "italic": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n",
+          "italic": true,
+          "underline": true
+        },
+        {
+          "text": "- Primero, lee la introducción \"Presentación de Lester Hamlet: Una Figura Clave en el Cine Cubano Contemporáneo\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Segundo, mira ambas películas disponibles, Casa Vieja y Tres Veces Dos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Tercero, mira la más reciente entrevista con Jack Riordan, mientras lees las anotaciones adicionales. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Material Extra (Opcional):"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Relación de Lester con su Padre (Trauma + Exilio), ver las otras entrevistas elegidas como con: Amaury Pérez, Yadira Otero, o Marco en Marcos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La película debut de Lester Hamlet, Tres Veces Dos, es un largometraje que presenta tres cortometrajes de cineastas cubanos emergentes de principios de los 2000: Pavel Giroud, Lester Hamlet y Esteban Insausti. Cada uno de estos directores lograría posteriormente reconocimiento nacional e internacional, convirtiéndose en cineastas galardonados y celebrados en todo el mundo.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "El Mapa Para el Proyecto",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "el-mapa-para-el-proyecto",
+  "created_at": "2025-06-05T13:59:18.361Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-06-05T13:59:18.361Z",
+  "updated_by": "jackDeVry"
+}
