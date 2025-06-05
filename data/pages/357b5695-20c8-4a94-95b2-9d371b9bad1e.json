@@ -145,6 +145,7 @@
   "slug": "el-mapa-para-el-proyecto",
   "created_at": "2025-06-05T13:59:18.361Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-05T13:59:18.361Z",
-  "updated_by": "jackDeVry"
+  "updated_at": "2025-06-05T13:59:50.320Z",
+  "updated_by": "jackDeVry",
+  "parent": "ecac8daf-29dc-44ef-b83d-8fe3154af984"
 }
