@@ -1,9 +1,255 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Lester Hamlet: One of Cuba's Most Relevant Filmmaker's."
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://cubactores.com/wp-content/uploads/2024/09/273960232_10224018859691123_87178063374891935_n.jpg",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Here, I am testing out how the different columm thing works"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " Lester Hamlet, "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "is a vital part to understand certain issues with the "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "current Cuban administration"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "24d6b7ab-3bef-4e36-b681-d8d0c2665ecc",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "event-comparison",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "event1": {
+                "uuid": "24d6b7ab-3bef-4e36-b681-d8d0c2665ecc",
+                "end": 71,
+                "file": "d24b4c15-9b27-405d-8111-d697942dbb67",
+                "type": "Video"
+              },
+              "event2": {
+                "uuid": "27826a47-1a94-4562-a254-eabea0fc68e6",
+                "start": 11,
+                "end": 71,
+                "file": "ac119146-f979-43ac-b994-8764f6bd73d3",
+                "type": "Video"
+              },
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Here, I have some word's and things!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-06-04T21:57:41.896Z",
   "created_by": "jackDeVry",
   "title": "Influential Cuban Filmmakers: Lester Hamlet",
-  "updated_at": "2025-06-04T21:57:41.896Z",
+  "updated_at": "2025-06-05T15:29:20.616Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
