@@ -247,30 +247,6 @@
           "text": ""
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "Road-Map for the Project",
@@ -281,7 +257,7 @@
   "slug": "road-map-for-the-project",
   "created_at": "2025-06-04T22:07:51.767Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-05T14:16:48.094Z",
+  "updated_at": "2025-06-05T14:18:24.601Z",
   "updated_by": "jackDeVry",
   "parent": "ecac8daf-29dc-44ef-b83d-8fe3154af984"
 }
