@@ -12,15 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project aims to curate a comprehensive collection of films and interviews featuring one of Cuba’s most influential filmmakers of the 21st century. Within this archive, you will have access to a series of interviews conducted over the years and a freely available selection of his filmography. The objective is to provide a resource that deepens the understanding of his contributions to cinema both as an innovative filmmaker and an individual."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "This project aims to curate a comprehensive collection of films and interviews featuring one of Cuba’s most influential filmmakers of the 21st century. Within this archive, you will have access to a series of interviews conducted over the years, as well as a freely available selection of his filmography. The objective is to provide a resource that deepens the understanding of his contributions to cinema, both as an innovative filmmaker and an individual."
         }
       ]
     },
@@ -214,6 +206,33 @@
       ]
     },
     {
+      "uuid": "24d6b7ab-3bef-4e36-b681-d8d0c2665ecc",
+      "includes": [
+        "media"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -262,7 +281,7 @@
   "slug": "road-map-for-the-project",
   "created_at": "2025-06-04T22:07:51.767Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-06-05T14:16:00.295Z",
+  "updated_at": "2025-06-05T14:16:48.094Z",
   "updated_by": "jackDeVry",
   "parent": "ecac8daf-29dc-44ef-b83d-8fe3154af984"
 }
