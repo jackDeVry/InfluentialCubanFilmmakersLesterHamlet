@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2025-11-10T16:35:42.655Z",
+  "created_by": "jackDeVry",
+  "title": "Pelicula de Gabo",
+  "slug": "pelicula-de-gabo",
+  "updated_at": "2025-11-10T16:35:42.655Z",
+  "updated_by": "jackDeVry",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "473bc255-6fff-468f-98eb-43844d631676"
+  }
+}
